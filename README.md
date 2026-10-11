@@ -71,4 +71,4 @@ Map data © OpenStreetMap contributors, available under the Open Database Licens
 
 ## Author
 
-Nikalai Piskunovich | LinkedIn: (https://www.linkedin.com/in/mikalai-piskunovich-4b670a299/)
+Mikalai Piskunovich | LinkedIn: (https://www.linkedin.com/in/mikalai-piskunovich-4b670a299/)
