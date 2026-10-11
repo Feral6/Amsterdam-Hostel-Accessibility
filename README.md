@@ -1,6 +1,6 @@
 # Hostel Accessibility from Amsterdam Centraal: 10 Minutes on Foot and by Bike
 
-![Map preview](maps/amsterdam_hostel_accessibility.png)
+![Map preview](Amsterdam_Accessibility_Map2.png)
 
 A QGIS project that shows how many hostels in Amsterdam a traveler can reach from Amsterdam Centraal Station within 10 minutes on foot and within 10 minutes by bike, and where the gaps are.
 
@@ -72,4 +72,4 @@ Map data © OpenStreetMap contributors, available under the Open Database Licens
 ## Author
 
 Mikalai Piskunovich  
-[LinkedIn](www.linkedin.com/in/mikalai-piskunovich-4b678a399)
+[LinkedIn](https://www.linkedin.com/in/mikalai-piskunovich-4b670a299/)
